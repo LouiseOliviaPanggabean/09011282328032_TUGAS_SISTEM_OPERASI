@@ -1,4 +1,5 @@
-![alt text](https://github.com/LouiseOliviaPanggabean/09011282328032_TUGAS_SISTEM_OPERASI/blob/main/ScreenShots/Screenshot%20from%202024-08-30%2016-01-32.png?raw=true)
+![Screenshot from 2024-08-30 16-01-32](https://github.com/user-attachments/assets/fca718dd-913f-42f6-a7a6-d1bda20530b6)
+
 <p></p>
 <H1>pwd</H1>
 <b>pwd</b> merupakan perintah pada linux yang digunakan
