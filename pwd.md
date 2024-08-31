@@ -2,4 +2,4 @@
 
 <p></p>
 <H1>pwd</H1>
-<b>pwd</b> merupakan perintah pada linux yang digunakan
+<b>pwd</b> merupakan perintah pada linux yang digunakan untuk menampilkan direktory yang bekerja saat ini.
